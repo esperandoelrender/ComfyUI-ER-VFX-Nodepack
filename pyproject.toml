@@ -11,4 +11,4 @@ Repository = "https://github.com/esperandoelrender/ComfyUI-ER-VFX-Nodepack"
 [tool.comfy]
 PublisherId = "eracademy"
 DisplayName = "ER VFX Nodepack"
-Icon = "web/logo.png"
+Icon = "https://raw.githubusercontent.com/esperandoelrender/ComfyUI-ER-VFX-Nodepack/main/web/logo.png"
