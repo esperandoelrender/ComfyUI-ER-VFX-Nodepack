@@ -1,0 +1,14 @@
+[project]
+name = "er-vfx-nodepack"
+description = "ER VFX Nodepack: film-grade VFX tools for ComfyUI — generative editing (FLUX.2 klein/Kontext/Qwen-Edit), lens flares, defocus/bokeh, glow, grain, camera dirt, color correction with vectorscope, relighting, layer compositing, wedge sequencing and more. GPU live previews on every node."
+version = "2.1.0"
+license = { text = "MIT" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/esperandoelrender/ComfyUI-ER-VFX-Nodepack"
+
+[tool.comfy]
+PublisherId = "eracademy"
+DisplayName = "ER VFX Nodepack"
+Icon = "web/logo.png"
